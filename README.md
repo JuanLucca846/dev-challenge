@@ -2,9 +2,8 @@
 
 Challenges
 
-```bash
 Exercise 1: Simple Calculator
-Create a calculator that takes two numbers and an operator (+, -, *, /) and returns the result
+Create a calculator that takes two numbers and an operator (+, -, \*, /) and returns the result
 of the operation.
 
 Exercise 2: Prime Numbers
@@ -36,7 +35,6 @@ Exercise 8: Interest Calculation
 Create a function that calculates the final value of an investment based on initial capital,
 interest rate, and investment time (in months). The program must prompt the user for these
 values and display the final value.
-```
 
 ### Technologies!
 
@@ -46,7 +44,6 @@ values and display the final value.
 
 ### Running the challenges
 
-```bash
 To run the challenges written in C, you can use: https://www.onlinegdb.com/
+
 To run the challenge written in JavaScript, you can use: https://www.programiz.com/javascript/online-compiler/
-```
